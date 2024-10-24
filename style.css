@@ -1,17 +1,23 @@
 .img {
-    width: 150px;
-    height: 150px;
-    border-radius: 100px;
+    width: 280px;
+    height: 280spx;
+    border-radius: 150px;
     border-color: 30px yellow ;
     margin: auto;
     display: flex;
     justify-content: center;
+   
 }
+
+    
+
 .bcn {
     background-color: yellow;
     border-radius: 10px;
     text-align: center;
-    margin-bottom: 50px;
+    margin: 150px 0;
+    font-size: 50px;
+    padding: 20px;
 }
 .tele {
     
@@ -19,16 +25,34 @@
    padding: 30px;
    border-radius: 35px;
    text-align: center;
+   font-size: 30px;
+   outline: none;
+   color: blue;
 }
 .b {
     padding: 40px;
     background-color: bisque;
     border-radius: 30px;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
+    font-size: 40px;
+    outline: none;
+   
 }
 .b2 {
+    font-size: 50px;
     text-align: center;
     background-color: yellow;
     padding: 10px;
+}
+.m {
+    font-size: 50px;
+}
+.in {
+    font-size: 60px;
+    color: black;
+    background-color: red;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: center;
 }
