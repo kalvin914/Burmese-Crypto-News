@@ -2,17 +2,26 @@
     width: 280px;
     height: 280spx;
     border-radius: 150px;
-    border-color: 30px yellow ;
+    border-color: 10px solid yellow;
     margin: auto;
     display: flex;
     justify-content: center;
    
 }
-
+body {
+    background-image: url(photo_2024-10-27_12-55-00\ \(2\).jpg);
+    
+}
+.l {
+    font-size: 20px;
+    color: aliceblue;
+}
+   
+    
     
 
 .bcn {
-    background-color: yellow;
+    background-color: rgb(252, 174, 5);
     border-radius: 10px;
     text-align: center;
     margin: 150px 0;
@@ -42,7 +51,7 @@
 .b2 {
     font-size: 50px;
     text-align: center;
-    background-color: yellow;
+    background-color:  rgb(252, 174, 5);
     padding: 10px;
 }
 .m {
